@@ -41,7 +41,7 @@ Asegúrate de contar con lo siguiente antes de comenzar:
 ## ⚙️ Instalación y Configuración Local
 
 1. Clonar el repositorio:
-   git clone <URL_DE_TU_REPOSITORIO>
+   git clone <https://github.com/marvvv360/catalogo-turismo-cookies-httponly.git>
    cd catalogo-turismo-cookies-httponly
 
 2. Instalar las dependencias:
